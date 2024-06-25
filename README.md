@@ -8,7 +8,7 @@ This repository contains the initial stage of a student project to build a clone
 
 | Tasks | Files | Description |
 | ----- | ----- | ------ |
-|00: kayode Alegbemi | https://github.com/kalegbemi/AirBnB_clone_v2/tree/master | 
+|00: kayode Alegbemi | [kaycodes](https://github.com/kalegbemi/AirBnB_clone_v2/tree/master/kaycodes) | project author
 | 0: Authors/README File | [AUTHORS](https://github.com/justinmajetich/AirBnB_clone/blob/dev/AUTHORS) | Project authors |
 | 1: Pep8 | N/A | All code is pep8 compliant|
 | 2: Unit Testing | [/tests](https://github.com/justinmajetich/AirBnB_clone/tree/dev/tests) | All class-defining modules are unittested |
